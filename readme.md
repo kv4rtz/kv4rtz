@@ -3,7 +3,7 @@
 <p align="left">☄️ I'm Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13" alt='Russia'> Izhevsk, Russia </p>
 
 <p>
-  I usually develop software in<a href="https://www.typescriptlang.org/" target="_blank"><b>Typescript</b></a>, <a href="https://www.python.org/" target="_blank"><b>Python</b></a>and<a href="https://go.dev/" target="_blank"><b>Go</b></a>
+  I usually develop software in <a href="https://www.typescriptlang.org/" target="_blank"><b>Typescript</b></a>, <a href="https://www.python.org/" target="_blank"><b>Python</b></a> and <a href="https://go.dev/" target="_blank"><b>Go</b></a>
 </p>
 
 <h2 align="left" id="kvarcev-stack">🔥 Tech stack</h2>
