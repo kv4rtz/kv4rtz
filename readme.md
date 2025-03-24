@@ -3,7 +3,7 @@
 <p align="left">☄️ I'm Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13" alt='Russia'> Izhevsk, Russia </p>
 
 <p>
-  I usually develop software in <a href="https://www.typescriptlang.org/" target="_blank"><b>Typescript</b></a>, <a href="https://www.python.org/" target="_blank"><b>Python</b></a> and <a href="https://go.dev/" target="_blank"><b>Go</b></a>
+  I usually develop software in <a href="https://www.typescriptlang.org/" target="_blank"><b>Typescript</b></a> and <a href="https://go.dev/" target="_blank"><b>Go</b></a>
 </p>
 
 <h2 align="left" id="kvarcev-stack">🔥 Tech stack</h2>
@@ -11,7 +11,6 @@
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-efd81c?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3D7AAA?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-go-00A6D0?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-html-F16429?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
